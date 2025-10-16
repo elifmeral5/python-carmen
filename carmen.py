@@ -1,9 +1,6 @@
 """
 File: carmen.py
 Author: Elif Meral
-Date: 05/13/2024
-Section: 24
-E-mail: elifm1@umbc.edu
 Description:
     The user plays the game carmen to find Carmen Sandiego by searching places
         looking at clues, and talking to people.
